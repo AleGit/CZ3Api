@@ -1,4 +1,4 @@
-module CZ3Prover [system] {
+module CZ3Api [system] {
   header "/usr/local/include/z3.h"
   link "z3"
   export *
