@@ -16,3 +16,4 @@ module CZ3Api [system] {
   export *
 }
 ```
+As workaround the z3 header files have to be copied or linked into `/usr/local/include`
