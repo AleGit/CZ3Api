@@ -1,5 +1,5 @@
 module CZ3Api [system] {
-  header "/usr/local/include/z3.h"
+  header "shim.h"
   link "z3"
   export *
 }
