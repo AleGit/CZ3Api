@@ -12,3 +12,5 @@ The paths to header and library files have to be configured with
 ```
 import CZ3Api
 ```
+
+See [FLEA-CNF](https://github.com/AleGit/FLEA-CNF).
